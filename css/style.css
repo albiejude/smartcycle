@@ -1,6 +1,6 @@
 /*-------------------------------------
     
-	Author: WebstrotSmartCycle
+	Author: Smart Cycle
 	Copyright © 2025-20
 	
 ---------------------------------------
@@ -5342,7 +5342,7 @@ a:hover {
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   border-radius: 10px;
-  min-height: 209px;
+  /* min-height: 209px; */
   margin-bottom: 30px;
 }
 
@@ -6039,9 +6039,24 @@ dl.userdescc dd {
   width: calc(100% - 50px);
   text-transform: capitalize;
   font-size: 28px;
-  color: #fff;
+  color: #ffffff;
 }
-
+.investment_icon_wrapper h5 {
+  float: left;
+  width: calc(100% - 50px);
+  text-transform: capitalize;
+  font-size: 18px;
+  font-weight: 700;
+  color: #000000;
+}
+.invest_details h1 {
+  color: #000000;
+}
+.color_white {
+  background: #ffffff !important;
+  padding: 30px !important;
+  text-align: left !important;
+}
 .color_1 {
   background: #bd4cec !important;
   padding: 30px !important;

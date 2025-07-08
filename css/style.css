@@ -6660,7 +6660,7 @@ dl.userdescc dd {
   color: #555;
   -webkit-border-radius: 50px;
   -moz-border-radius: 50px;
-  border-radius: 50px;
+  border-radius: 5px;
   background: transparent;
   text-transform: capitalize;
   line-height: 50px;
